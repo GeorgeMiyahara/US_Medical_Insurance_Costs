@@ -1,6 +1,5 @@
 # US_Medical_Insurance_Costs
 ## Abstract
-Nowadays almost everything is in sight of business. Our health is also needless to say in part of this particular. A insurance Company likely to cost you more penny if you have particular deases or elements such as 'I smoke', 'I have childeren', 'I am overweight', etc.
 
 In today's interconnected world, where business influences nearly every aspect of our lives, our health is no exception. One crucial element that plays a pivotal role in safeguarding our well-being is health insurance. It acts as a financial safety net, ensuring that individuals can access necessary medical care without facing exorbitant expenses. However, the cost of health insurance premiums is not arbitrary; it is meticulously calculated based upon a multitude of factors that delve deep into our lifestyles and health profiles.
 
